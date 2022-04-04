@@ -1,8 +1,8 @@
 Introduction
 =
-> This is an official release of the paper  **
+> This is an official release of the paper  
 > 
-> Frequency-driven Imperceptible Adversarial Attack on Semantic Similarity**, ***CVPR 2022***
+> **Frequency-driven Imperceptible Adversarial Attack on Semantic Similarity**, ***CVPR 2022***
 > 
 > [[Paper]](https://arxiv.org/abs/2203.05151).
 > 
