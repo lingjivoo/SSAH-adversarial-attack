@@ -89,7 +89,7 @@ Here we offer some experiment results. You can get more results in our paper.
 |  Name   | Knowledge  |  ASR(%)  |  L2 |  Linf | FID | LF | Paper |
 |  ----  | ----  |  ----  | ----  |   ----  | ----  |   ----  | ----  | 
 | BIM  | White Box |   99.98 |26.85 |0.03 |51.92 |11.18   |    [ICLR2017](https://arxiv.org/pdf/1607.02533.pdf)    |
-| PGD  | White Box|  99.98 |54.97 ||0.03| |45.5|1 |17.41   |    [arxiv link](https://arxiv.org/pdf/1706.06083.pdf)     |
+| PGD  | White Box|  99.98 |54.97 ||0.03| |45.51 |17.41   |    [arxiv link](https://arxiv.org/pdf/1706.06083.pdf)     |
 | MIM  | White Box|   99.98 |91.78 |0.03 |101.88 |39.42   |     [CVPR2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Boosting_Adversarial_Attacks_CVPR_2018_paper.pdf)    |
 | AutoAttack | White Box | 96.97 |71.62 |0.03 |77.49 |30.45 |     [ICML2020](https://arxiv.org/pdf/2003.01690.pdf)    |
 | AdvDrop | White Box |  99.76 |14.95 |0.06 |11.28 |5.67|     [ICCV2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Duan_AdvDrop_Adversarial_Attack_to_DNNs_by_Dropping_Information_ICCV_2021_paper.pdf)    |
